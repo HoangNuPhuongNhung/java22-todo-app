@@ -1,0 +1,6 @@
+private bool symmetric(int a){
+    if (/*kiem tra so a*/) {
+        return true;
+    	}
+    else return false;
+}
